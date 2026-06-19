@@ -94,4 +94,4 @@ POST /api/bookings
 - Elastic IP assigned for consistent public access
 
 ## 👩‍💻 Author
-Yuvasree V — [GitHub](https://github.com/yuvasreekrishnan) | [LinkedIn](https://linkedin.com/in/your-linkedin)
+Yuvasree V — [GitHub](https://github.com/yuvasreekrishnan) | [LinkedIn] https://www.linkedin.com/in/yuvasree-v-10153929a/
